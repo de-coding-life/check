@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 i can need you
-=======
-i need you
->>>>>>> 8dcd88945c9732a5dd198c3786fe1d52ea9ccf2b
 
